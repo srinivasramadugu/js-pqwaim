@@ -1,3 +1,3 @@
-# js-pqwaim
+# css-place-item
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-pqwaim)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/css-place-item)
